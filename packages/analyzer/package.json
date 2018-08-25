@@ -1,0 +1,18 @@
+{
+  "name": "@krofdrakula/analyzer",
+  "version": "0.0.1",
+  "description": "A Clean Architecture metrics analyzer for JavaScript and TypeScript projects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Klemen Slavič <krof.drakula@gmail.com> (https://krofdrakula.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "@types/babel-core": "6.25.5",
+    "babel-core": "6.26.3",
+    "typescript": "3.0.1"
+  }
+}
