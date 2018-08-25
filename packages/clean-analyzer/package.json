@@ -1,5 +1,5 @@
 {
-  "name": "@krofdrakula/analyzer",
+  "name": "@krofdrakula/clean-analyzer",
   "version": "0.0.1",
   "description": "A Clean Architecture metrics analyzer for JavaScript and TypeScript projects",
   "main": "dist/index.js",
