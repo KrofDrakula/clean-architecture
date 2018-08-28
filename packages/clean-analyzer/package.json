@@ -14,5 +14,8 @@
     "@types/babel-core": "6.25.5",
     "babel-core": "6.26.3",
     "typescript": "3.0.1"
+  },
+  "devDependencies": {
+    "tslint": "5.11.0"
   }
 }
